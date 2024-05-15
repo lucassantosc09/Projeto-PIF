@@ -1,6 +1,6 @@
 # Projeto-PIF
-Jogo de PIF (snake)\n
-Lucas Santos\n
-Erick Belo\n
-Lucas Ramon\n
+Jogo de PIF (snake). Integrantes: 
+Lucas Santos - 
+Erick Belo - 
+Lucas Ramon - 
 
